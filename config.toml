@@ -1,0 +1,5 @@
+baseURL = "https://poisson.math.umb.edu/"
+languageCode = "en-us"
+title = "UMBIBIO Weekly Talks"
+theme = "learn"
+relativeURLs = false
