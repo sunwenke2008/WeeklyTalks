@@ -1,5 +1,6 @@
+
 ---
 title: "Week 1"
 ---
 
-Hello
+There is no seminars in Week 1.

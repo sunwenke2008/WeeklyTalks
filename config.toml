@@ -3,3 +3,6 @@ languageCode = "en-us"
 title = "UMBIBIO Weekly Talks"
 theme = "learn"
 relativeURLs = false
+
+[params]
+sort = "name"
