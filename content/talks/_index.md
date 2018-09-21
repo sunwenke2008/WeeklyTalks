@@ -1,5 +1,5 @@
 ---
-title: "Talks"
+title: "Weekly Talks"
 ---
 
 ### Course Structure
