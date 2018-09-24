@@ -5,7 +5,7 @@ weight: 2
 
 Hello, Here are Amir's presentataions this week.
 
-[Presentation(pdf version)](/Amir/Copy of Bimodal Analysis(2).pdf)
+[Presentation(pdf version)](../Copy of Bimodal Analysis(2).pdf)
 
 __Title:__Analyze of multimodality of gene expression profiles using publically available databases
 </br>

@@ -5,7 +5,7 @@ weight: 1
 
 Hello, Here are Josh's presentataions this week.
 
-[Presentation(pdf version)](/Josh/Josh_ppt_9.14.18.pdf)
+[Presentation(pdf version)](../Josh_ppt_9.14.18.pdf)
 
 __Title:__ Characterization of New Brca1 Mutation dependent Tumor Model (Maybe?)
 </br>
