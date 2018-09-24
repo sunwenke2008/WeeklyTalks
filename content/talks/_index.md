@@ -1,5 +1,6 @@
 ---
 title: "Weekly Talks"
+weight: 2
 ---
 
 ### Course Structure
