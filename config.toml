@@ -1,8 +1,10 @@
-baseURL = "https://poisson.math.umb.edu/"
+baseURL = "https://poisson.math.umb.edu/umbibio/"
 languageCode = "en-us"
 title = "UMBIBIO Weekly Talks"
 theme = "learn"
 relativeURLs = false
 
 [params]
-sort = "name"
+  # Change default color scheme with a variant one. Can be "red", "blue", "green".
+  themeVariant = "mine"
+  sort = "name"
