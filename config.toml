@@ -1,4 +1,4 @@
-baseURL = "https://poisson.math.umb.edu/"
+baseURL = "https://poisson.math.umb.edu/umbibio/"
 languageCode = "en-us"
 title = "UMBIBIO Weekly Talks"
 theme = "learn"
