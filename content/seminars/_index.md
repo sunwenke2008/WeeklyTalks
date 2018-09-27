@@ -8,7 +8,7 @@ weight: 1
 
 The following are tentative and might change.
 
-Date (Fall 2018)|  Name    | Abstract & Presentation Recourses
+Date (Fall 2018)|  Name    | Abstract & Presentation Resources
  --------------|----------|------------------------
  Sep 7 (Week 1)  |No Presentations|
  Sep 14 (Week 2) | Joshua Rivera| [Click Me](sep-14th-josh)
