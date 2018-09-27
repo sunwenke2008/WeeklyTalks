@@ -8,3 +8,9 @@ relativeURLs = false
   # Change default color scheme with a variant one. Can be "red", "blue", "green".
   themeVariant = "mine"
   sort = "name"
+
+[[menu.shortcuts]] 
+name = "<i class='fab fa-github'></i> Github repository"
+identifier = "ds"
+url = "https://github.com/umbibio"
+weight = 10
