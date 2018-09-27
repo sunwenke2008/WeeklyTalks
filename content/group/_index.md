@@ -3,9 +3,7 @@ title: "About our group"
 weight: 3
 ---
 
-We have a wonderful group!
-
-Member names?
+Our research group
 
 ![alt text](groupphoto.jpeg)
 
