@@ -1,11 +1,11 @@
 ---
-title: "Josh"
+title: "Sep 14th - Josh Rivera"
 weight: 1
 ---
 
-Hello, Here are Josh's presentataions this week.
+Presentation resourses:
 
-[Presentation(pdf version)](../Josh_ppt_9.14.18.pdf)
+- [Presentation slides (pdf version)](Josh_ppt_9.14.18.pdf)
 
 __Title:__ Characterization of New Brca1 Mutation dependent Tumor Model (Maybe?)
 </br>
