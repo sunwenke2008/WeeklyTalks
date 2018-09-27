@@ -1,5 +1,5 @@
 ---
-title: "01 Josh"
+title: "Josh"
 weight: 1
 ---
 
