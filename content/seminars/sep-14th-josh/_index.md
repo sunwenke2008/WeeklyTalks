@@ -3,7 +3,7 @@ title: "Sep 14th - Josh Rivera"
 weight: 1
 ---
 
-Presentation resourses:
+__Presentation resourses:__
 
 - [Presentation slides (pdf version)](Josh_ppt_9.14.18.pdf)
 

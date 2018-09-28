@@ -3,7 +3,7 @@ title: "Sep 14th - Amir Vajdi"
 weight: 2
 ---
 
-Presentation resourses:
+__Presentation resourses:__
 
 - [Presentation slides (pdf version)](Copy of Bimodal Analysis(2).pdf)
 

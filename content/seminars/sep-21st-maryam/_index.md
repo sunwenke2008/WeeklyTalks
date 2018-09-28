@@ -3,7 +3,7 @@ title: "Sep 21st - Maryam Labaf"
 weight: 3
 ---
 
-Presentation resourses:
+__Presentation resourses:__
 
 - [Presentation slides (pdf version)](Genome Variations Analysis .pdf)
 
