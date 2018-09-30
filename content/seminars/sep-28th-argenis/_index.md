@@ -5,7 +5,7 @@ weight: 4
 
 __Presentation resourses:__
 
-<!-- - [Presentation slides (pdf version)](???) -->
+- [Presentation slides (pdf version)](Argenis01.pdf)
 
 __Title:__ Literature review: Bayesian modelling for the study of regulatory interactions
 </br>

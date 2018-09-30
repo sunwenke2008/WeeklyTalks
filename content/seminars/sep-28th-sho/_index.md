@@ -5,7 +5,7 @@ weight: 5
 
 __Presentation resourses:__
 
-<!-- - [Presentation slides (pdf version)](???) -->
+- [Presentation slides (pdf version)](Sho01.pdf)
 
 __Title:__ Kernel Principal Component Analysis
 </br>
