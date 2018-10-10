@@ -5,7 +5,7 @@ weight: 7
 
 __Presentation resourses:__
 
-<!-- - [Presentation slides (pdf version)](Copy of Bimodal Analysis(2).pdf) -->
+- [Presentation slides (pdf version)](seminar-Toxoplasma.pdf)
 
 __Title:__ Computational approaches to identifying transcription factors involved in lytic cycle of Toxoplasma Gondii virulence traits
 </br>

@@ -5,7 +5,7 @@ weight: 6
 
 __Presentation resourses:__
 
-<!-- - [Presentation slides (pdf version)](Copy of Bimodal Analysis(2).pdf) -->
+- [Presentation slides (pdf version)](Modeling Cellular Response and Casual Inference Engine.pdf)
 
 __Title:__ Modeling Cellular Response and Causal Inference Engine
 </br>
