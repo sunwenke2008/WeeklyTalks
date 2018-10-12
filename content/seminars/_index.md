@@ -17,10 +17,9 @@ Date (Fall 2018)|  Name    | Abstract & Presentation Resources
  Sep 28 (Week 4) |Argenis Arriojas| [More Info](sep-28th-argenis)
  Sep 28 (Week 4) |Sho Inaba| [More Info](sep-28th-sho)
  Oct 05 (Week 5) |Corey O'Connor & Saman Farahmand | [More Info](oct-05th-coreyandsaman)
- Oct 05 (Week 5) |Yasaman Rezvani| [More Info](oct-05-th-yasaman)
- Oct 12 (Week 6) |Wenke Sun|More Info<!-- ](wenke/wenke1) -->
- Oct 12 (Week 6) |Saman Farahmand |More Info<!-- ](saman/saman1) -->
- Oct 19 (Week 7) |Sho Inaba|More Info<!-- ](sho/sho2) -->
+ Oct 05 (Week 5) |Yasaman Rezvani| [More Info](oct-05th-yasaman)
+ Oct 12 (Week 6) |Wenke Sun| [More Info](oct-12th-wenke)
+ Oct 12 (Week 6) |Saman Farahmand |[More Info](oct-12th-samen)
  Oct 19 (Week 7) |Maryam Labaf|More Info<!-- ](maryam/maryam2) --> 
  Nov 02 (Week 8) |Argenis Arriojas| More Info<!-- ](argenis/argenis2) -->
  Nov 02 (Week 8) |Yasaman Rezvani|More Info<!-- ](yasaman/yasaman2) -->
