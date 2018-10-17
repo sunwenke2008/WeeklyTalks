@@ -5,7 +5,7 @@ weight: 8
 
 __Presentation resourses:__
 
-<!-- - [Presentation slides (pdf version)](seminar-Toxoplasma.pdf) -->
+- [Presentation slides (pdf version)](Presentation_Wenke_MultiLabel_LDA.pdf)
 
 __Title:__ Multi-label Linear Discriminant Analysis
 </br>
