@@ -25,7 +25,7 @@ Date (Fall 2018)|  Name    | Abstract & Presentation Resources
  Nov 09 (Week 9) |Corey O'Connor|More Info<!-- ](corey/corey1) -->
  Nov 09 (Week 9) |Saman Farahmand |More Info<!-- ](saman/saman2) -->
  Nov 16 (Week 10) | TBA|More Info
- Nov 23 (Week 11) | TBA|More Info
+ Nov 23 (Week 11) | Thanksgiving
  Nov 30 (Week 12) | TBA|More Info
  Dec 07 (Week 13) | TBA|More Info
  Dec 14 (Week 14) | TBA|More Info
