@@ -5,6 +5,8 @@ weight: 11
 
 __Presentation resourses:__
 
+- [R file for Presentation](attfaces.R)
+
 <!-- - [Presentation slides (pdf version)](PR2.pdf) -->
 
 __Title:__ Online Principal Component Analysis in High Dimension: Which Algorithm to Choose?
