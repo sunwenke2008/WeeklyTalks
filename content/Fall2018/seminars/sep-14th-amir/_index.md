@@ -5,7 +5,7 @@ weight: 2
 
 __Presentation resourses:__
 
-- [Presentation slides (pdf version)](Copy of Bimodal Analysis(2).pdf)
+- [Presentation slides (pdf version)]
 
 __Title:__Analyze of multimodality of gene expression profiles using publically available databases
 </br>
