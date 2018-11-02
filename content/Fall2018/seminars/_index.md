@@ -22,7 +22,7 @@ Date (Fall 2018)|  Name    | Abstract & Presentation Resources
  Oct 12 (Week 6) |Saman Farahmand |[More Info](oct-12th-samen)
  Oct 19 (Week 7) |Maryam Labaf|[More Info](oct-19th-maryam) 
  Oct 26 (Week 8) |Prof. David Degras| [More Info](oct-26th-david)
- Nov 02 (Week 9) |Argenis Arriojas| More Info<!-- ](argenis/argenis2) -->
+ Nov 02 (Week 9) |Sho Inaba| [More Info](nov-01st-sho)
  Nov 09 (Week 10) |Corey O'Connor|More Info<!-- ](corey/corey1) -->
  Nov 09 (Week 10) |Saman Farahmand |More Info<!-- ](saman/saman2) -->
  Nov 16 (Week 11) | TBA|More Info
