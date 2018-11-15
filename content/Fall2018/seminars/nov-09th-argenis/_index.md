@@ -5,7 +5,7 @@ weight: 13
 
 __Presentation resourses:__
 
-<!-- - [Presentation slides (pdf version)]() -->
+- [Presentation slides (pdf version)](Fall18 Argenis 02 - A Bayesian model for the inference of TF activation state_ notes on implementation and preliminary results.pdf)
 
 
 __Title:__ A Bayesian model for the inference of TF activation state: notes on implementation and preliminary results
