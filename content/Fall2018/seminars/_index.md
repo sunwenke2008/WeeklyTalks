@@ -27,9 +27,11 @@ Date (Fall 2018)|  Name    | Abstract & Presentation Resources
  Nov 09 (Week 10) |Corey O'Connor| [More Info](nov-09th-corey)
  Nov 16 (Week 11) | TBA|More Info
  Nov 23 (Week 12) | Thanksgiving
+ Nov 28 (Week 13) | Amir Vajdi|[More Info](nov-28th-amir)
  Nov 30 (Week 13) | TBA|More Info
  Dec 07 (Week 14) | TBA|More Info
  Dec 14 (Week 15) | TBA|More Info
+ Dec 30 (Week 15) | Mirjana Vuletic|[More Info](dec-30th-mirjana)
 
 
 

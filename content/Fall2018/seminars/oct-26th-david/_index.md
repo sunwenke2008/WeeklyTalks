@@ -5,6 +5,7 @@ weight: 11
 
 __Presentation resourses:__
 
+- [Presentation slides](talk.pdf)
 - [R file for Presentation](attfaces.R)
 
 <!-- - [Presentation slides (pdf version)](PR2.pdf) -->
