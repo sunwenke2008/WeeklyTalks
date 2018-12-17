@@ -5,7 +5,7 @@ weight: 15
 
 __Presentation resourses:__
 
-<!-- - [Presentation slides (pdf version)]() -->
+- [Presentation slides (pdf version)](slides(5).pdf)
 
 
 __Title:__ Dynamics of Protein-Protein Interactions: A probabilistic model towards protein function
