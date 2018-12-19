@@ -5,7 +5,7 @@ weight: 2
 
 __Presentation resourses:__
 
-- [Presentation slides (pdf version)]
+- [Presentation slides (pdf version)](UMass_Kourosh_lab.pdf)
 
 __Title:__Analyze of multimodality of gene expression profiles using publically available databases
 </br>
