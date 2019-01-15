@@ -1,6 +1,7 @@
 ---
 title: "Nov 30th - Mirjana Vuletic"
 weight: 18
+hidden: 1
 ---
 
 __Presentation resourses:__

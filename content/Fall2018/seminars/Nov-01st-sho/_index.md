@@ -1,6 +1,7 @@
 ---
 title: "Nov 01st - Sho Inaba"
 weight: 12
+hidden: 1
 ---
 
 __Presentation resourses:__

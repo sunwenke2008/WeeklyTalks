@@ -1,6 +1,7 @@
 ---
 title: "Oct 26th - Prof David Degras"
 weight: 11
+hidden: 1
 ---
 
 __Presentation resourses:__

@@ -1,6 +1,7 @@
 ---
 title: "Sep 28th - Argenis Arriojas"
 weight: 4
+hidden: 1
 ---
 
 __Presentation resourses:__

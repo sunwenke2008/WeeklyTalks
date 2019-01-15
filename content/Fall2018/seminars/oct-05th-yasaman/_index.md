@@ -1,6 +1,7 @@
 ---
 title: "Oct 05th - Yasaman Rezvani"
 weight: 7
+hidden: 1
 ---
 
 __Presentation resourses:__

@@ -1,6 +1,7 @@
 ---
 title: "Sep 28th - Sho Inaba"
 weight: 5
+hidden: 1
 ---
 
 __Presentation resourses:__

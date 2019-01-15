@@ -1,6 +1,7 @@
 ---
 title: "Oct 19th - Maryam Labaf"
 weight: 10
+hidden: 1
 ---
 
 __Presentation resourses:__

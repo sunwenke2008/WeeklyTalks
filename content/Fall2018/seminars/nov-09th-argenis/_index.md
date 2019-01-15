@@ -1,6 +1,7 @@
 ---
 title: "Nov 09th - Argenis Arriojas"
 weight: 13
+hidden: 1
 ---
 
 __Presentation resourses:__

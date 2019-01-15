@@ -1,6 +1,7 @@
 ---
 title: "Oct 05th - Corey O'Connor and Saman Farahmand"
 weight: 6
+hidden: 1
 ---
 
 __Presentation resourses:__

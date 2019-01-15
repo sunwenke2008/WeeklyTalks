@@ -1,6 +1,7 @@
 ---
 title: "Oct 12th - Saman Farahmand"
 weight: 9
+hidden: 1
 ---
 
 __Presentation resourses:__

@@ -1,6 +1,7 @@
 ---
 title: "Nov 09th - Corey O'Connor"
 weight: 14
+hidden: 1
 ---
 
 __Presentation resourses:__

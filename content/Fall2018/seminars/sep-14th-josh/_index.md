@@ -1,6 +1,7 @@
 ---
 title: "Sep 14th - Josh Rivera"
 weight: 1
+hidden: 1
 ---
 
 __Presentation resourses:__

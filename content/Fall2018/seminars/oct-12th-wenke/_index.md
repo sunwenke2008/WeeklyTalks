@@ -1,6 +1,7 @@
 ---
 title: "Oct 12th - Wenke Sun"
 weight: 8
+hidden: 1
 ---
 
 __Presentation resourses:__

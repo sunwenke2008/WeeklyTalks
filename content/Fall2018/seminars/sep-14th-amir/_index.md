@@ -1,6 +1,7 @@
 ---
 title: "Sep 14th - Amir Vajdi"
 weight: 2
+hidden: 1
 ---
 
 __Presentation resourses:__

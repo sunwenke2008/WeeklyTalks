@@ -1,6 +1,7 @@
 ---
 title: "Nov 28th - Amir Vajdi"
 weight: 15
+hidden: 1
 ---
 
 __Presentation resourses:__
